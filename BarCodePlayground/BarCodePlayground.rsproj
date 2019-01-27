@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CogSimProj>
+  <ProjectInfo ID="53bf3c01-f9b4-4b93-85d1-f22f4d0f133d" ItemID="4" Type="RobotSimProject" Version="2.6.0" />
+  <ProjectData>
+    <Details Creator="" Company="" Description="" Email="" Website="" />
+    <State CurrentEnvironment="268435456" />
+    <Directories>
+      <Directory DirectoryName="Materials" />
+      <Directory DirectoryName="Meshes" />
+      <Directory DirectoryName="Resources" />
+      <Directory DirectoryName="Scripts" />
+      <Directory DirectoryName="Textures">
+        <Dependency Name="floor-opt.png" ItemID="1" Type="Texture" Path="" Link="False" />
+        <Dependency Name="bar-code-floor.png" ItemID="2" Type="Texture" Path="" Link="False" />
+        <Dependency Name="barcode-mat-1.png" ItemID="3" Type="Texture" Path="" Link="False" />
+      </Directory>
+      <Directory DirectoryName="Environments">
+        <Dependency Name="Recycling Plant.rsim" ItemID="268435456" Type="Environment" Path="" Link="False" />
+      </Directory>
+      <EV3Directory DirectoryName="EV3 VRT-Bot" />
+      <EV3Directory DirectoryName="EV3 Educator Vehicle" />
+    </Directories>
+  </ProjectData>
+</CogSimProj>
